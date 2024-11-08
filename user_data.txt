@@ -1,0 +1,20 @@
+Name: Charlie,Age: 22,Weight: 87kg,Height: 152cm,Obese
+Name:Tutu ,Age: 43 ,Weight: 77kg ,Height: 132cm ,Obese
+Name:Tani, Age: 43, Weight: 33kg, Height: 123cm, Normal
+Name:Yellow, Age: 45, Weight: 45kg, Height: 123cm, Overweight
+Name:Wendy, Age: 55, Weight: 77kg, Height: 155cm, Obese
+Name:Boby, Age: 22, Weight: 45kg, Height: 165cm, Underweight
+Name:Preeti, Age: 22, Weight: 45kg, Height: 165cm, Underweight
+Name:Prem, Age: 44, Weight: 45kg, Height: 165cm, Underweight
+Name:Jiya, Age: 35, Weight: 45kg, Height: 143cm, Normal
+Name:Asha, Age: 32, Weight: 67kg, Height: 157cm, Overweight
+Name:Lily, Age: 34, Weight: 34kg, Height: 122cm, Normal
+Name:Jack, Age: 12, Weight: 33kg, Height: 111cm, Overweight
+Name:Tulip, Age: 22, Weight: 49kg, Height: 149cm, Normal
+Name:Sarah, Age: 35, Weight: 44kg, Height: 157cm, Underweight
+Name:Terry, Age: 4, Weight: 4kg, Height: 12cm, Obese
+Name:Zahida, Age: 22, Weight: 23kg, Height: 123cm, Underweight
+Name:Heather, Age: 33, Weight: 33kg, Height: 155cm, Underweight
+Name:Pearl, Age: 33, Weight: 77kg, Height: 155cm, Obese
+Name:Mave, Age: 33, Weight: 55kg, Height: 155cm, Normal
+Name:Otis, Age: 33, Weight: 111kg, Height: 155cm, Obese
